@@ -1,0 +1,14 @@
+<?php
+
+define('dbuser', '');
+define('dbpassword', '');
+define('dbname', '');
+define('dbhost', '');
+define('puerto', '3306');
+
+define('hostSMTP','');
+define('portSMTP','');
+define('userSMTP','');
+define('passwordSMTP','');
+define('fromUser','');
+define('mailName','');
